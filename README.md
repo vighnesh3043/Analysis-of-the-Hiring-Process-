@@ -42,14 +42,14 @@ Class Intervals | Frequency
 
 ### Task 4: Gender Proportions Visualization
 
-![Gender Proportions](column%20chart.png)
+![Gender Proportions](column%20chart.crtx)
 
 - **Insight:** Male employees are more than the number of Female employees.
 - **Recommendation:** Assess gender distribution against strategic goals and consider adjustments if needed.
 
 ### Task 5: Post Tier Representation Analysis
 
-![Post Tier Representation](pie%20chart.png)
+![Post Tier Representation](pie%20chart.crtx)
 
 - **Insight:** "Operations Department" post tier has the highest representation, followed by "Sales Department" and "Service Department."
 - **Recommendation:** Evaluate post tier distribution for career progression opportunities and alignment with growth plans.
