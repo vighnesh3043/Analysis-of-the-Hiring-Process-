@@ -42,7 +42,7 @@ Class Intervals | Frequency
 
 ### Task 4: Gender Proportions Visualization
 
-![Gender Proportions](column%20chart.crtx)
+![bar chart](https://github.com/user-attachments/assets/82ba903f-4a6b-4083-a11d-d7102ae63332)
 
 - **Insight:** Male employees are more than the number of Female employees.
 - **Recommendation:** Assess gender distribution against strategic goals and consider adjustments if needed.
