@@ -49,7 +49,8 @@ Class Intervals | Frequency
 
 ### Task 5: Post Tier Representation Analysis
 
-![Post Tier Representation](pie%20chart.crtx)
+![pie chart](https://github.com/user-attachments/assets/17807b4a-7b70-468a-a7ba-1fd2ed975967)
+
 
 - **Insight:** "Operations Department" post tier has the highest representation, followed by "Sales Department" and "Service Department."
 - **Recommendation:** Evaluate post tier distribution for career progression opportunities and alignment with growth plans.
@@ -57,7 +58,7 @@ Class Intervals | Frequency
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open the Excel file `` to access the dataset used for analysis.
+2. Open the Excel file `Hiring Process Analytics.xlsx` to access the dataset used for analysis.
 3. Review the Excel sheets for data details and formulas used for calculations.
 4. Explore the generated visualizations in the `graphs` directory.
 5. Refer to the project report for detailed insights and recommendations.
