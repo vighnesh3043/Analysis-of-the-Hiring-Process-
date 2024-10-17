@@ -5,7 +5,7 @@
 This project's main goal is to examine our company's hiring procedure in order to learn more about different facets of our recruitment efforts. I want to give a thorough overview of our hiring procedures and point out areas for improvement by using Excel and data visualization approaches.
 
 ## Project Tasks and Outputs
-
+          
 ### Task 1: Gender Distribution in Hires
 
 - **Insight:** The hiring process has resulted in 2562 male and 1854 female hires.
@@ -50,7 +50,6 @@ Class Intervals | Frequency
 ### Task 5: Post Tier Representation Analysis
 
 ![pie chart](https://github.com/user-attachments/assets/17807b4a-7b70-468a-a7ba-1fd2ed975967)
-
 
 - **Insight:** "Operations Department" post tier has the highest representation, followed by "Sales Department" and "Service Department."
 - **Recommendation:** Evaluate post tier distribution for career progression opportunities and alignment with growth plans.
