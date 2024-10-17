@@ -1,4 +1,4 @@
-# Analysis-of-the-Hiring-Process-Project
+# Hiring-Process-Analytics-Project
 
 ## Overview
 
